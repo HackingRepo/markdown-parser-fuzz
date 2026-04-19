@@ -1,1 +1,1 @@
-<label for="pwd">Password:</label>
+<input type="checkbox">Task</input>
