@@ -1,1 +1,1 @@
-`Google <javas cript:alert`1`>`_
+`Google <javaaqqcript:alert`1`>`_
