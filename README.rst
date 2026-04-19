@@ -1,1 +1,1 @@
-`Google <slack:///>`_
+`Google <<https://google.com>>`_
