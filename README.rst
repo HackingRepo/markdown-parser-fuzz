@@ -1,1 +1,1 @@
-`Google <https://google.com>`_
+`Google <javascript:alert`1`>`_
