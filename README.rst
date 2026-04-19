@@ -1,1 +1,1 @@
-`Google <javaaqqcript:alert`1`>`_
+<`Google <https://google.com>`_
