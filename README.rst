@@ -1,1 +1,1 @@
-`Google <<https://google.com>>`_
+`Google <javas cript:alert`1`>`_
