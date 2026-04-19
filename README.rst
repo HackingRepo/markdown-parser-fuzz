@@ -1,1 +1,1 @@
-`Google <https://google.com">`_
+`Google <https://google.com/">`_
