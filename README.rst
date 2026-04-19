@@ -1,1 +1,1 @@
-`Google <"><script>>`_
+`Google <slack:///>`_
