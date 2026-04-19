@@ -1,1 +1,1 @@
-[**Test**](https://google.com)
+[**Test** rel="sponsored"](https://google.com)
