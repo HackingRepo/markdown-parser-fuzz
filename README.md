@@ -1,1 +1,1 @@
-<p>HG</whatever>
+<p style="color: red;">HG</whatever>
