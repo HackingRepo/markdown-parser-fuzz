@@ -1,1 +1,1 @@
-<p style="color: red;">HG</p>
+<label for="pwd">Password:</label>
