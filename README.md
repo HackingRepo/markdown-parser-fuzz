@@ -1,1 +1,1 @@
-<whatever>HG</whatever
+<whatever>HG</whatever>
